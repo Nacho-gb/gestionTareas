@@ -25,7 +25,7 @@ Sigue estos pasos para clonar e instalar el proyecto:
 
 1. Clona este repositorio:
 
-   git clone https://github.com/tuusuario/gestionTareas.git
+   git clone https://github.com/Nacho-gb/gestionTareas.git
 
 2. Navega al directorio del proyecto
 
